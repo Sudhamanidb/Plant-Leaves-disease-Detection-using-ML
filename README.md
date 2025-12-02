@@ -1,46 +1,50 @@
-# 🌿 Plant Leaves Disease Detection using Machine Learning
-> 🔍 Smart Agriculture · Early Disease Detection · ~95% Accuracy
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+# 🌿 Plant Leaves Disease Detection using Machine Learning  
+> 🔍 Smart Agriculture • Automated Disease Diagnosis • ~95% Accuracy
 
 ---
 
-## 🌟 Overview
+## 🌟 Project Logo / Banner  
+*(Add your image in repo → images/banner.png and it will show automatically)*
 
-Plant diseases reduce crop yield and farmer income.  
-This project uses **Machine Learning + Image Processing** to detect leaf diseases from images with **~95% accuracy**, enabling fast, reliable, and automated diagnosis for precision agriculture.
-
----
-
-## ✨ Features
-
-### 🌱 Core Features
-- 📸 Automated disease detection from leaf images  
-- 🧠 ML-based classifier trained on real dataset  
-- 🎯 High accuracy (~95%)  
-- ⚡ Fast predictions within milliseconds  
-
-### 🌈 Advanced Features
-- 🖼️ Image preprocessing (resize, denoise, color enhance)  
-- 🔍 Feature extraction (HOG, texture, RGB analysis)  
-- 🧪 Multiple ML models tested: CNN, SVM, RF, KNN  
-- 📊 Visualization tools (confusion matrix, accuracy curves)  
-- 💾 Trained model saved for reusability  
-- 💻 User-friendly prediction script with confidence score  
+<p align="center">
+  <img src="images/banner.png" alt="Plant Disease Detection" width="80%">
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🎥 GIF Demo  
+*(Add a demo GIF here → images/demo.gif)*
 
-- **Python**
-- **Scikit-Learn / TensorFlow / Keras**
-- **NumPy, Pandas**
-- **Matplotlib, Seaborn**
-- **OpenCV, PIL**
+<p align="center">
+  <img src="images/demo.gif" alt="Demo" width="60%">
+</p>
 
 ---
 
-## 🔄 Workflow
+## 🌟 Overview  
+
+Plant leaf diseases directly affect crop productivity.  
+This project uses **Machine Learning + Image Processing** to detect plant leaf diseases with **~95% accuracy**, enabling fast and reliable crop health monitoring in **precision agriculture**.
+
+---
+
+## ✨ Features  
+
+### 🌱 Core Features  
+- 📸 Automatic plant leaf disease detection  
+- 🧠 ML-based classifier with high accuracy  
+- 🎯 Achieved **~95% model accuracy**  
+- ⚡ Instant predictions in milliseconds  
+
+### 🌈 Advanced Features  
+- 🖼️ **Image preprocessing:** resize, denoise, normalize  
+- 🔍 **Feature extraction:** texture, color, HOG  
+- 🤖 Trained multiple ML models (CNN, SVM, RF, KNN)  
+- 📊 Accuracy curves, confusion matrix, evaluation metrics  
+- 💾 Model saved for reusability  
+- 💻 Simple prediction script included  
+
+---
+
+## 🔄 Workflow  
 
