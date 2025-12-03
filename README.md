@@ -1,50 +1,42 @@
-# 🌿 Plant Leaves Disease Detection using Machine Learning  
-> 🔍 Smart Agriculture • Automated Disease Diagnosis • ~95% Accuracy
+# 🌿 Plant Leaves Disease Detection using Machine Learning
+> 🔍 Smart Agriculture · Early Disease Detection · ~95% Accuracy
 
 ---
 
-## 🌟 Project Logo / Banner  
-*(Add your image in repo → images/banner.png and it will show automatically)*
+## 🌟 Overview
 
-<p align="center">
-  <img src="images/banner.png" alt="Plant Disease Detection" width="80%">
-</p>
+Plant diseases reduce crop yield and farmer income.  
+This project uses **Machine Learning + Image Processing** to detect leaf diseases from images with **~95% accuracy**, enabling fast, reliable, and automated diagnosis for precision agriculture.
 
 ---
 
-## 🎥 GIF Demo  
-*(Add a demo GIF here → images/demo.gif)*
+## ✨ Features
 
-<p align="center">
-  <img src="images/demo.gif" alt="Demo" width="60%">
-</p>
+### 🌱 Core Features
+- 📸 Automated disease detection from plant leaf images  
+- 🧠 ML-based classifier trained on real agricultural datasets  
+- 🎯 High accuracy (~95%)  
+- ⚡ Fast and efficient predictions  
 
----
-
-## 🌟 Overview  
-
-Plant leaf diseases directly affect crop productivity.  
-This project uses **Machine Learning + Image Processing** to detect plant leaf diseases with **~95% accuracy**, enabling fast and reliable crop health monitoring in **precision agriculture**.
-
----
-
-## ✨ Features  
-
-### 🌱 Core Features  
-- 📸 Automatic plant leaf disease detection  
-- 🧠 ML-based classifier with high accuracy  
-- 🎯 Achieved **~95% model accuracy**  
-- ⚡ Instant predictions in milliseconds  
-
-### 🌈 Advanced Features  
-- 🖼️ **Image preprocessing:** resize, denoise, normalize  
-- 🔍 **Feature extraction:** texture, color, HOG  
-- 🤖 Trained multiple ML models (CNN, SVM, RF, KNN)  
-- 📊 Accuracy curves, confusion matrix, evaluation metrics  
-- 💾 Model saved for reusability  
-- 💻 Simple prediction script included  
+### 🌈 Advanced Features
+- 🖼️ Image preprocessing (resize, denoise, enhance)  
+- 🔍 Feature extraction (HOG, texture, RGB analysis)  
+- 🧪 Multiple ML models tested (CNN, SVM, RandomForest, KNN)  
+- 📊 Visual results: confusion matrix, accuracy curves  
+- 💾 Trained model saved for reuse  
+- 💻 Easy prediction script with confidence scores  
 
 ---
 
-## 🔄 Workflow  
+## 🧠 Tech Stack
+
+- Python  
+- Scikit-Learn / TensorFlow / Keras  
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- OpenCV, PIL  
+
+---
+
+## 🔄 Workflow
 
