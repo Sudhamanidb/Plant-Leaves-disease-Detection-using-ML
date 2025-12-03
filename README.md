@@ -38,5 +38,4 @@ This project uses **Machine Learning + Image Processing** to detect leaf disease
 
 ---
 
-## 🔄 Workflow
 
